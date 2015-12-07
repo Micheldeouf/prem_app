@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 # Ruby himself
-ruby '2.0.0'
+ruby '2.2.1'
 
 # Puma web server
 gem 'puma'
