@@ -2,9 +2,6 @@ source 'https://rubygems.org'
 # Ruby himself
 ruby '2.2.1'
 
-# Enable all platform features
-gem 'rails_12factor'
-
 # Puma web server
 gem 'puma'
 
